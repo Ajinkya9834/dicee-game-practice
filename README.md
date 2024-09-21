@@ -12,7 +12,7 @@
 
 - desktop-view:
   
-![](./desktop-view)
+![](./desktop-view/desktop-view.png)
 
 
 ### Built with
